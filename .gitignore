@@ -10,3 +10,9 @@ output/
 
 # Jupyter checkpoint files
 .ipynb_checkpoints/
+
+# Download instructions shared directly with students (not published to GitHub)
+IMERG_GPM_Lesson_download_instructions.pdf
+
+# Local folder auto-created by the Claude desktop app when downloading files from chat
+Claude outputs/
