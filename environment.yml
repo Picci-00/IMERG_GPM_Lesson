@@ -1,0 +1,25 @@
+name: imerg_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyterlab
+  - notebook
+  - ipykernel
+  - ipywidgets
+  - ipyleaflet
+  - nodejs
+  - numpy
+  - pandas
+  - xarray
+  - netcdf4
+  - rasterio
+  - geopandas
+  - shapely
+  - matplotlib
+  - cartopy
+  - openpyxl
+  - requests
+  - pip
+  - pip:
+      - earthaccess
