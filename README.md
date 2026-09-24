@@ -22,7 +22,7 @@ The notebook automatically creates two additional folders in the same directory 
 
 - **Anaconda** (or Miniconda) installed on your computer
 - An internet connection
-- A free **NASA Earthdata** account (https://urs.earthdata.gov), with a `.netrc` file configured in the same folder as the notebook
+- A free **NASA Earthdata** account (https://urs.earthdata.nasa.gov), with a `.netrc` file configured in the same folder as the notebook
 
 Detailed instructions for all of these steps are provided in `IMERG_setup.pdf`.
 
