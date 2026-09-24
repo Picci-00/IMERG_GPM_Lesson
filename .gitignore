@@ -16,3 +16,6 @@ IMERG_GPM_Lesson_download_instructions.pdf
 
 # Local folder auto-created by the Claude desktop app when downloading files from chat
 Claude outputs/
+
+# Script used to generate the setup guide PDF (not published to GitHub)
+build_IMERG_setup.py
