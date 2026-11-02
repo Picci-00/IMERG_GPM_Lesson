@@ -13,12 +13,14 @@ output/
 
 # Download instructions shared directly with students (not published to GitHub)
 IMERG_GPM_Lesson_download_instructions.pdf
+IMERG_GPM_Lesson_download_instructions_v1.pdf
 
 # Local folder auto-created by the Claude desktop app when downloading files from chat
 Claude outputs/
 
 # Script used to generate the setup guide PDF (not published to GitHub)
 build_IMERG_setup.py
+build_IMERG_script_guide.py
 
 # Figures and videos for presentation
 pic/
